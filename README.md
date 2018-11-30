@@ -10,4 +10,4 @@ Initially written in Spyder
 
 Requires numPy package
 
-i didn't wanna do bridge calcs so let's make python do it :D
+ps. as advice to any out there building matboard bridges, even with these nice calcs and such, u have to make sure to reinforce the hell out of your bridges. Diaphragms and reinforcements and a nice tub of glue will get u far
